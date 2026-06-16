@@ -24,3 +24,8 @@
 | `leveraged-catalyst` | **【火攻】** 善用外部重大推力（如新科技、爆紅話題、社群槓桿）來加速局勢發展、打破僵局。 |
 | `networking-intelligence` | **【用間】** 廣結善緣、建立多元資訊管道，靠精準的情報做出正確決策，而不是瞎猜。 |
 
+## 安裝
+使用 `npx skills` 工具
+```
+npx skills add https://github.com/TH04e22/art-of-war-skills
+```
